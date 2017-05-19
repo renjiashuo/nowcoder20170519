@@ -10,6 +10,9 @@
       <Platform>Win32</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{814886D4-C2AC-419C-B70B-FB8A5BBB1B58}</ProjectGuid>
     <RootNamespace>My2017519牛客网模拟笔试</RootNamespace>
